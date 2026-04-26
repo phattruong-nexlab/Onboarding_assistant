@@ -6,3 +6,4 @@ pydantic-settings
 python-dotenv
 aiofiles
 asyncio
+python-multipart
